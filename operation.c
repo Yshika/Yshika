@@ -11,4 +11,6 @@ sub=a-b;
 printf("Subtraction of the numbers is:%d",sub);
 p=a*b;
 printf("Multiplication of 2 numbers is:%d",p);
+div=a/b;
+printf("Division of 2 numbers is:%f",div);
 }
